@@ -1,0 +1,58 @@
+a {
+    color: rgb(179, 76, 76);
+}
+
+.zolotaya_chasha {
+    position: relative;
+    bottom: 210px;
+}
+
+.center_welcome_text {
+    position: absolute;
+    bottom: 50%;
+    right: 37%;
+
+}
+
+.system_requirements {
+    color:rgba(255, 255, 255, 0.753);
+}
+
+.discord {
+    position: absolute;
+    bottom: 1%;
+    left: 1%;
+}
+
+.youtube {
+    position: absolute;
+    bottom: 1%;
+    left: 5%;
+}
+
+.vk {
+    position: absolute;
+    bottom: 0.5%;
+    left: 9%;
+}
+
+.github {
+    position: absolute;
+    bottom: 8.5%;
+    left: 5%;
+}
+
+.steam {
+    position: absolute;
+    bottom: 8.5%;
+    left: 1%;
+}
+
+table, th, td {
+    border:1px solid rgba(0, 0, 0, 0.726);
+}
+
+
+::selection {
+    background-color: rgba(90, 82, 82, 0.295);
+}
