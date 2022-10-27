@@ -1,1 +1,1 @@
-# shpitzchak-shpitzchak.github.io
+# shpitzchak.github.io
