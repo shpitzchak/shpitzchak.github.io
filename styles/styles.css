@@ -48,6 +48,12 @@ a {
     left: 1%;
 }
 
+.directories {
+    position: absolute;
+    bottom: 0.5%;
+    right: 1%;
+}
+
 table, th, td {
     border:1px solid rgba(0, 0, 0, 0.726);
 }
